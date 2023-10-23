@@ -1,6 +1,7 @@
 go 1.20
 
 use (
+	./context-cancelation-pipeline
 	./pipeline
 	./simplified-fan-out-fan-in-pipeline
 )
