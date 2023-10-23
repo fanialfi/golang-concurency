@@ -2,4 +2,5 @@ go 1.20
 
 use (
 	./pipeline
+	./simplified-fan-out-fan-in-pipeline
 )
